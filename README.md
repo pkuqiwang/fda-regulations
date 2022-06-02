@@ -27,7 +27,7 @@ Below is a list of parts that are frequentely referenced during the discussion o
 
 ## IND
 
-Pre-IND meeting is critical to find answers or clarifications from the FDA about any open issues. You only have *ONE* pre-IND meetings, so use it wisely. IND don't get approved. Once you files you IND, FDA has 30 days to review and determine if the IND can move forward for human clinical trials. It is a passive system and if you hear nothing from the FDA after 30 days, the IND becomes effective and you can start the clinical trial. If the FDA has any concern about the IND, it will put a full/partial clinical hold within 30 days of filling.
+Pre-IND meeting is critical to find answers or clarifications from the FDA about any open issues. You only have *ONE* pre-IND meetings, so use it wisely. IND doesn't get approved. Once you files you IND, FDA has 30 days to review and determine if the IND can move forward for human clinical trials. It is a passive system and if you hear nothing from the FDA after 30 days, the IND becomes effective and you can start the clinical trial. If the FDA has any concern about the IND, it will put a full/partial clinical hold within 30 days of filling.
 
 What is major parts in original IND
 * Toxicology and Pharmocology (PK/PD)
